@@ -1,0 +1,6 @@
+plugin:
+    name: 'stagairs.voorraad::lang.plugin.name'
+    description: 'stagairs.voorraad::lang.plugin.description'
+    author: Stagairs
+    icon: oc-icon-database
+    homepage: ''
