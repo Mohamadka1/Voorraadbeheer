@@ -1,0 +1,35 @@
+v1.0.1:
+    - 'Initialize plugin'
+v1.0.2:
+    - 'Created table stg_voorraad_products'
+    - builder_table_create_stg_voorraad_products.php
+v1.0.3:
+    - 'Created table stg_voorraad_reusable_products'
+    - builder_table_create_stg_voorraad_reusable_products.php
+v1.0.4:
+    - 'Drop table stg_voorraad_users_reusable_products'
+    - builder_table_delete_stg_voorraad_users_reusable_products.php
+v1.0.5:
+    - 'Drop table stg_voorraad_users_reusable_products'
+    - builder_table_delete_stg_voorraad_users_reusable_products_2.php
+v1.0.6:
+    - 'Drop table stg_voorraad_users_reusable_products'
+    - builder_table_delete_stg_voorraad_users_reusable_products_3.php
+v1.0.7:
+    - 'Drop table stg_voorraad_users_products'
+    - builder_table_delete_stg_voorraad_users_products.php
+v1.0.8:
+    - 'Created table stg_voorraad_users_products'
+    - builder_table_create_stg_voorraad_users_products.php
+v1.0.9:
+    - 'Drop table stg_voorraad_users_reusable_products'
+    - builder_table_delete_stg_voorraad_users_reusable_products_4.php
+v1.0.10:
+    - 'Drop table stg_voorraad_users_products'
+    - builder_table_delete_stg_voorraad_users_products_2.php
+v1.0.11:
+    - 'Created table stg_voorraad_users_products'
+    - builder_table_create_stg_voorraad_users_products_2.php
+v1.0.12:
+    - 'Created table stg_voorraad_users_reusable_products'
+    - builder_table_create_stg_voorraad_users_reusable_products.php

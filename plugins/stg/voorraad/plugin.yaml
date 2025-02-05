@@ -1,0 +1,6 @@
+plugin:
+    name: 'stg.voorraad::lang.plugin.name'
+    description: 'stg.voorraad::lang.plugin.description'
+    author: stg
+    icon: oc-icon-anchor
+    homepage: ''

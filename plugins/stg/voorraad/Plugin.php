@@ -1,4 +1,4 @@
-<?php namespace Stagairs\Voorraad;
+<?php namespace stg\Voorraad;
 
 use System\Classes\PluginBase;
 
